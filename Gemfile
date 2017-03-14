@@ -12,6 +12,8 @@ gem 'rails', '~> 5.0.2'
 gem 'sqlite3'
 # Use Puma as the app server
 gem 'puma', '~> 3.0'
+# Use Bootstrap for styling
+gem 'bootstrap-sass', '~> 3.3.5'  
 # Use Paperclip for image uploading
 gem "paperclip", "~> 5.0.0"
 # Use Simple Form for creating forms
