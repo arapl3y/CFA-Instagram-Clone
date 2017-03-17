@@ -13,9 +13,11 @@ gem 'sqlite3'
 # Use Puma as the app server
 gem 'puma', '~> 3.0'
 # Use Bootstrap for styling
-gem 'bootstrap-sass', '~> 3.3.5'  
+gem 'bootstrap-sass', '~> 3.3.5'
+# Use Devise for user authentication
+gem 'devise'  
 # Use Paperclip for image uploading
-gem "paperclip", "~> 5.0.0"
+gem 'paperclip', "~> 5.0.0"
 # Use Simple Form for creating forms
 gem 'simple_form'
 # Use SCSS for stylesheets
